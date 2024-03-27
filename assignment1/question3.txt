@@ -1,0 +1,4 @@
+data type   space they take 
+int             4bytes
+bool            1byte
+float           4bytes

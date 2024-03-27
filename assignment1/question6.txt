@@ -1,0 +1,3 @@
+out of the given options only 
+_FLOAT can be a variable name 
+and FLOAT can be a variable name is c++
